@@ -198,7 +198,7 @@
     so that Hadoop 3.x can declare itself a 2.x artifact. -->
     <declared.hadoop.version>${hadoop.version}</declared.hadoop.version>
 
-    <swagger-annotations-version>1.5.4</swagger-annotations-version>
+    <swagger-annotations-version>1.6.6</swagger-annotations-version>
     <snakeyaml.version>1.26</snakeyaml.version>
     <hbase.one.version>1.7.1</hbase.one.version>
     <hbase.two.version>2.2.4</hbase.two.version>
