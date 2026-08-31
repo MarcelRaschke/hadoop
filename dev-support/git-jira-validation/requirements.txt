@@ -16,3 +16,4 @@
 # limitations under the License.
 #
 jira==3.1.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
